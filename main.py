@@ -13,7 +13,7 @@ import os
 import signal
 import random
 
-webhook_url = 'https://discord.com/api/webhooks/1454075152059858997/Xn9KHc-trhyWFZkMnKmizyJOKF0rmoy7egHOvQIkHujGeKJVvf5BJfttviDmV3XZoisi'
+webhook_url = "type your webhook :)"
 
 try:
     if not pygame.get_init():
@@ -340,4 +340,5 @@ def main():
         run_game()
 
 if __name__ == "__main__":
+
     main()
