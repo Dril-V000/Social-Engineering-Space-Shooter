@@ -15,7 +15,7 @@ Any reference to social engineering is **purely conceptual and educational**.
 
 ❗ **Illegal and unethical use is strictly discouraged**  
 Using real social engineering techniques against individuals or systems without authorization is illegal and unethical.
-If you use these simple scripts to spy on others
+If you use these simple scripts to spy on others.
 ❗** I Will find you **❗
 
 ---
