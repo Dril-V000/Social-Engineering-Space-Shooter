@@ -1,47 +1,65 @@
-# 🚀 Social Engineering Space Shooter
+# 🚀 Social Engineering Space Shooter (Educational Game)
 
-**Social Engineering Space Shooter** is a Python-based 2D arcade game inspired by classic space shooter mechanics, combined with a **social engineering educational theme**.  
-The project focuses on gameplay, learning, and awareness — not real-world exploitation.
+**Social Engineering Space Shooter** is a Python-based **2D arcade space shooter game** inspired by classic retro shooters.  
+The project uses the idea of *social engineering* **only as a fictional and educational theme** to promote awareness about information security — **not real-world exploitation**.
 
-This repository is intended for **educational and entertainment purposes only**.
-
----
-
-## ⚠️ Disclaimer & Warnings
-
-❗ **This is NOT a real social engineering tool**  
-This game does **not** perform, automate, or support real social engineering attacks, phishing, hacking, or data theft.  
-Any reference to social engineering is **purely conceptual and educational**.
-
-❗ **Illegal and unethical use is strictly discouraged**  
-Using real social engineering techniques against individuals or systems without authorization is illegal and unethical.
-If you use these simple scripts to spy on others.
-# ❗ I WILL FIND YOU ❗
+This repository is created for **learning, experimentation, and entertainment purposes only**.
 
 ---
 
-## 🧠 What Is Social Engineering?
+## ⚠️ IMPORTANT DISCLAIMER
 
-Social engineering is the psychological manipulation of people into performing actions or revealing confidential information.  
-In this project, the concept is used **only as a theme** within a game environment to raise awareness and for learning purposes.
+❗ **THIS IS NOT A HACKING OR SOCIAL ENGINEERING TOOL**  
+This project does **NOT** perform phishing, hacking, spying, credential theft, or unauthorized data collection.
+
+❗ **No real attacks are implemented**  
+Any references to system information or social engineering concepts are **purely educational simulations inside a game environment**.
+
+❗ **Educational & Demonstration Purpose Only**  
+This project is intended for:
+- Learning Python & Pygame
+- Understanding basic system information concepts
+- Game development practice
+- Security awareness demonstrations
+## If you use these simple scripts to spy on others.
+# ❗ I WILL FIND YOU ❗ 
+
+🚫 **Strictly Prohibited Uses**
+- Spying on users
+- Collecting data without explicit consent
+- Using this project as malware or spyware
+- Distributing modified versions for malicious purposes
+
+
+## 🧠 What Does “Social Engineering” Mean Here?
+
+In this project, *social engineering* is treated as a **conceptual game theme**, not a real technique.
+
+- Enemies represent poor security decisions  
+- Levels represent awareness challenges  
+- Gameplay focuses on **learning through simulation**, not exploitation  
+
+There is **no real manipulation of people or systems**.
 
 ---
 
 ## 🎮 Features
 
 - 🚀 Classic 2D space shooter gameplay  
-- 👾 Enemy waves and player shooting mechanics  
-- 🎯 Educational theme related to social engineering awareness  
-- 🧩 Simple and lightweight Python game structure  
-- 🎮 Keyboard-based controls  
+- 👾 Enemy waves with increasing difficulty  
+- 🎯 Awareness-inspired educational theme  
+- 🧩 Clean and lightweight Python code  
+- ⌨️ Keyboard controls (WASD + SPACE)  
+- 🎵 Sound effects and background music  
 
 ---
 
 ## 📦 Requirements
 
-Make sure you have **Python 3.x** installed.
+- Python **3.x**
+- Recommended OS: **Windows**
 
-Install all required dependencies using **pip**:
+Install dependencies using pip:
 
 ```bash
 pip install pygame psutil requests getmac cpuinfo gputil
